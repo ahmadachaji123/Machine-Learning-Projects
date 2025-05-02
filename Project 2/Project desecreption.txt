@@ -1,0 +1,9 @@
+Project Requirements:
+Paper Selection: Choose one research with the associated dataset
+Model Development: Implement a Machine Learning (ML) or Ensemble Learning model to address the problem presented in the selected paper.
+
+Presentation: Prepare a 10-minute presentation covering:
+Data preparation
+Feature selection
+ML or Ensemble Learning techniques used
+Analysis and discussion of results
